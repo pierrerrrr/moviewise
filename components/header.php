@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <header class=" bg-stone-900">
 
-    <nav class="mx-auto max-w-screen-lg flex justify-between px-8 py-4">
+    <nav class="mx-auto max-w-screen-lg flex justify-between py-4">
 
-        <div class="font-bold text-xl tracking-wide">Movie Wise</div>
+        <div class="font-bold text-xl tracking-wide">MovieWise</div>
 
         <ul class="flex space-x-4 font-medium">
             <li><a href="/" class="text-rose-600">Explorar</a></li>
@@ -11,7 +11,7 @@
         </ul>
 
         <ul>
-            <li><a href="/login">Fazer login</a></li>
+            <li><a href="/login" class="hover:underline">Fazer login</a></li>
         </ul>
 
     </nav>
